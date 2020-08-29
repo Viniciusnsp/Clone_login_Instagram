@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+:root {
+    --background-color: #fafafa;
+}
+
+.container {
+    display: flex;
+    margin: 30px 150px;
+    padding-bottom:44px ;
+}
+
+.container.phone {
+    float: left;
+}
+.container.phone img {
+    height: 618px;
+    margin: -20px -15px 0px -45px;
+}
+
+.container.login {
+    float: right;
+    margin: 0px -15px 0;
+}
+
+.container.login img {
+    width: 175px;
+}
+
