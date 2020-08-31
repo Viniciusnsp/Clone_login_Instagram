@@ -10,16 +10,17 @@
 
 .container {
     display: flex;
-    margin: 30px 150px;
+    margin: 80px 150px;
     padding-bottom:44px ;
 }
 
 .container.phone {
     float: left;
+    margin: -20px -15px 0px -45px;
 }
 .container.phone img {
     height: 618px;
-    margin: -20px -15px 0px -45px;
+    
 }
 
 .container.login {
