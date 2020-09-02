@@ -16,13 +16,16 @@
 
 .container.phone {
     float: left;
-    margin: -20px -15px 0px -45px;
+    margin: -20px -15px 0px 5px;
 }
 .container.phone img {
     height: 618px;
     
 }
 
+.box-login {
+    margin-left: 20px;
+}
 .container.login {
     float: right;
     margin: 0px -15px 0;
